@@ -5,7 +5,7 @@
 ## About Me
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Mobile App**
 
 - 📫 How to reach me **ffadhil1108@gmail.com**
 
